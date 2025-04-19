@@ -1,0 +1,9 @@
+pyautogen
+chess
+groq
+matplotlib
+numpy
+pandas
+yfinance
+python-dotenv
+
