@@ -18,7 +18,7 @@ This repository demonstrates how to build a simple multi-agent stand-up comedy i
 
 - Python 3.7 or higher
 - `pip` package manager
-- A Groq API key (sign up at https://console.groq.com)
+- A Groq API key ( https://console.groq.com)
 
 ---
 
