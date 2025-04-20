@@ -4,7 +4,7 @@ This repository demonstrates how to build a simple multi-agent stand-up comedy i
 
 ---
 
-## Features
+## Features 🚀
 
 - **Conversable Agents**: Uses `ConversableAgent` from AutoGen to define AI agents with customizable system messages, LLM configurations, and human-input modes.
 - **Groq Integration**: Leverages the Groq API for fast inference, using models like `llama3-8b-8192` via environment-provided API key.
@@ -22,13 +22,9 @@ Multi-agent conversational workflows for personalized fitness planning.
   - Personal Information Collection
   - Fitness Goal Assessment
   - Physical Restrictions Analysis
-- **Groq LPU-Powered Inference**
-  - Mixtral-8x7b-32768 model integration
-  - 300+ tokens/sec performance
 - **Smart Agent Orchestration**
   - Context-aware conversation flow
   - Automated history management
-  - Secure API key handling
 - **Personalized Recommendations**
   - Custom workout plans
   - Progress tracking suggestions
