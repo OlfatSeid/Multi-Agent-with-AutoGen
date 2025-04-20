@@ -16,6 +16,9 @@ This repository demonstrates how to build a simple multi-agent stand-up comedy i
 ## AI Fitness Coaching Assistant 🤖💪
 Multi-agent conversational workflows for personalized fitness planning.
 
+![deepseek_mermaid_20250420_c982df](https://github.com/user-attachments/assets/a3282918-6f40-43cb-b8c5-734e17782dbe)
+
+
 ## Features 🚀
 
 - **Multi-Stage Onboarding Process**
@@ -43,7 +46,7 @@ Multi-agent conversational workflows for personalized fitness planning.
 
 
 
-![deepseek_mermaid_20250420_c982df](https://github.com/user-attachments/assets/7822bd61-cc67-46d0-aec5-7703c52c7954)
+
 
 
 
