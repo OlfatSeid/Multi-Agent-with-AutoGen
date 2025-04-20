@@ -13,6 +13,26 @@ This repository demonstrates how to build a simple multi-agent stand-up comedy i
 - **Termination Messages**: Illustrates custom termination logic for agents to end the chat gracefully.
 
 ---
+## AI Fitness Coaching Assistant 🤖💪
+Multi-agent conversational workflows for personalized fitness planning.
+
+## Features 🚀
+
+- **Multi-Stage Onboarding Process**
+  - Personal Information Collection
+  - Fitness Goal Assessment
+  - Physical Restrictions Analysis
+- **Groq LPU-Powered Inference**
+  - Mixtral-8x7b-32768 model integration
+  - 300+ tokens/sec performance
+- **Smart Agent Orchestration**
+  - Context-aware conversation flow
+  - Automated history management
+  - Secure API key handling
+- **Personalized Recommendations**
+  - Custom workout plans
+  - Progress tracking suggestions
+  - Motivational engagement tactics
 
 ## Prerequisites
 
