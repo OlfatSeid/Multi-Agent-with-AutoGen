@@ -43,6 +43,7 @@ Multi-agent conversational workflows for personalized fitness planning.
 
 
 
+![deepseek_mermaid_20250420_c982df](https://github.com/user-attachments/assets/7822bd61-cc67-46d0-aec5-7703c52c7954)
 
 
 
