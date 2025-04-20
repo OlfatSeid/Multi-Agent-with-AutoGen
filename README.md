@@ -18,7 +18,7 @@ Multi-agent conversational workflows for personalized fitness planning.
 
 <img src="https://github.com/user-attachments/assets/a3282918-6f40-43cb-b8c5-734e17782dbe" 
      width="100" 
-     style="max-width: 100%; height: auto;">
+     style="max-width: 80%; height: auto;">
 
 
 ## Features 🚀
