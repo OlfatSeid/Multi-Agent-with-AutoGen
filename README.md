@@ -39,6 +39,37 @@ Multi-agent conversational workflows for personalized fitness planning.
 ---
 
 
+# AI Blog Post Generator with AutoGen
+
+An AI-powered blog post generation tool that uses multiple specialized agents to create and refine content through collaborative review.
+
+## Overview
+
+This application combines Streamlit's interactive interface with AutoGen's multi-agent system to:
+- Generate initial blog post drafts
+- Conduct specialized reviews (SEO, Legal, Ethics)
+- Provide aggregated feedback
+- Produce polished final content
+
+## Features
+
+🛠️ **AI Agent Collaboration**
+- Writer agent for content creation
+- Critic agent for quality feedback
+- Specialized reviewers (SEO, Legal, Ethics)
+- Meta-reviewer for final suggestions
+
+🔍 **Multi-stage Review Process**
+- Automated content optimization
+- Compliance checks
+- Ethical validation
+- Search engine optimization
+
+📊 **Interactive Interface**
+- Real-time generation tracking
+- Expandable review sections
+- Clean output formatting
+- User-defined content prompts
 
 
 
