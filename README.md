@@ -75,7 +75,7 @@ This application combines Streamlit's interactive interface with AutoGen's multi
 
 A chess implementation where AI agents play against each other using natural language and tool calls, powered by AutoGen.
 
-## Features
+## Features 🚀
 
 - 🤖 Two AI players (White & Black) with separate identities
 - ♟️ Real chess board visualization using `python-chess`
