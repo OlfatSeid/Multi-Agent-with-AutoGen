@@ -51,7 +51,7 @@ This application combines Streamlit's interactive interface with AutoGen's multi
 - Provide aggregated feedback
 - Produce polished final content
 
-## Features
+## Features 🚀
 
 🛠️ **AI Agent Collaboration**
 - Writer agent for content creation
@@ -70,7 +70,19 @@ This application combines Streamlit's interactive interface with AutoGen's multi
 - Expandable review sections
 - Clean output formatting
 - User-defined content prompts
+########################
+# Conversational Chess with AI Agents
 
+A chess implementation where AI agents play against each other using natural language and tool calls, powered by AutoGen.
+
+## Features
+
+- 🤖 Two AI players (White & Black) with separate identities
+- ♟️ Real chess board visualization using `python-chess`
+- 🛠️ Tool-based interaction for legal moves and move execution
+- 💬 Natural language chitchat between moves
+- 🔄 Automatic turn management with nested conversations
+- 🖥️ SVG board visualization with move highlights
 
 
 
