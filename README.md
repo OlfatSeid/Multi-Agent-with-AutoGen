@@ -70,7 +70,7 @@ This application combines Streamlit's interactive interface with AutoGen's multi
 - Expandable review sections
 - Clean output formatting
 - User-defined content prompts
-########################
+-----------------------------------------
 # Conversational Chess with AI Agents
 
 A chess implementation where AI agents play against each other using natural language and tool calls, powered by AutoGen.
