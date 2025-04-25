@@ -121,9 +121,4 @@ stock_prices_YTD_plot.png: Price timeline
 volatility_analysis.png: Risk-return scatter plot
 
 
-Agent Configuration
-
-Agent	Role	Model
-code_writer_agent	Generates Python code	Llama3-8b-8192
-code_executor_agent	Executes and validates code	N/A
 
