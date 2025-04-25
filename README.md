@@ -100,7 +100,7 @@ This project demonstrates an AI-powered stock analysis system using Microsoft's 
 - **Auto-Saving Results**: Plots saved as high-resolution PNG files
 - **Safety Protocols**: Code execution timeouts and human verification
 
-**Usage**
+** Usage**
 The system will:
 
 Initialize AI agents
