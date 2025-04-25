@@ -2,8 +2,11 @@ pyautogen
 chess
 groq
 matplotlib
+seaborn 
+scipy
 numpy
 pandas
 yfinance
 python-dotenv
 streamlit
+IPython
