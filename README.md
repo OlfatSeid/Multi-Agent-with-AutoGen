@@ -85,7 +85,29 @@ A chess implementation where AI agents play against each other using natural lan
 - 🖥️ SVG board visualization with move highlights
 
 
+--------------------------------
 
+# Automated Stock Analysis 
+
+![Stock Analysis Example](coding/stock_prices_YTD_plot.png)
+
+## Overview
+This project demonstrates an AI-powered stock analysis system using Microsoft's AutoGen framework and Groq's accelerated AI computing. The system autonomously generates stock performance visualizations through collaborative AI agents.
+
+## Features
+- **AI Agent Collaboration**: Uses Writer and Executor agents for code generation/execution
+- **YTD Performance Analysis**: Automated year-to-date stock comparisons
+- **Volatility Visualization**: Scatter plots with risk-return relationships
+- **Multi-Ticker Support**: Compare multiple stocks simultaneously
+- **Auto-Saving Results**: Plots saved as high-resolution PNG files
+- **Safety Protocols**: Code execution timeouts and human verification
+
+## Requirements
+- Python 3.8+
+- Groq API Key (Free tier available)
+- Required Packages:
+  ```bash
+  pip install pyautogen yfinance matplotlib pandas seaborn scipy
 
 
 
