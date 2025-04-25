@@ -89,8 +89,6 @@ A chess implementation where AI agents play against each other using natural lan
 
 # Automated Stock Analysis 
 
-![Stock Analysis Example](coding/stock_prices_YTD_plot.png)
-
 ## Overview
 This project demonstrates an AI-powered stock analysis system using Microsoft's AutoGen framework and Groq's accelerated AI computing. The system autonomously generates stock performance visualizations through collaborative AI agents.
 
@@ -102,12 +100,24 @@ This project demonstrates an AI-powered stock analysis system using Microsoft's 
 - **Auto-Saving Results**: Plots saved as high-resolution PNG files
 - **Safety Protocols**: Code execution timeouts and human verification
 
-## Requirements
-- Python 3.8+
-- Groq API Key (Free tier available)
-- Required Packages:
-  ```bash
-  pip install pyautogen yfinance matplotlib pandas seaborn scipy
+**Usage**
+The system will:
+
+Initialize AI agents
+
+Fetch stock data from Yahoo Finance
+
+Generate analysis plots
+
+Save visualizations to /coding directory
+
+Example outputs:
+
+ytd_stock_gains.png: Normalized YTD comparison
+
+stock_prices_YTD_plot.png: Price timeline
+
+volatility_analysis.png: Risk-return scatter plot
 
 
 
