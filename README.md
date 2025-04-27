@@ -119,6 +119,16 @@ ytd_stock_gains.png: Normalized YTD comparison
 stock_prices_YTD_plot.png: Price timeline
 
 volatility_analysis.png: Risk-return scatter plot
+---------------------------------------------------
 
+# Planning and Stock Report Generation
+#### Build a group chat
 
+This group chat will include these agents:
+
+1. **User_proxy** or **Admin**: to allow the user to comment on the report and ask the writer to refine it.
+2. **Planner**: to determine relevant information needed to complete the task.
+3. **Engineer**: to write code using the defined plan by the planner.
+4. **Executor**: to execute the code written by the engineer.
+5. **Writer**: to write the report.
 
