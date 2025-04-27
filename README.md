@@ -119,9 +119,19 @@ ytd_stock_gains.png: Normalized YTD comparison
 stock_prices_YTD_plot.png: Price timeline
 
 volatility_analysis.png: Risk-return scatter plot
+
 ---------------------------------------------------
 
 # Planning and Stock Report Generation
+This notebook demonstrates a multi-agent system  to collaboratively research, analyze, and write a blog post about stock price performance.
+
+## Features
+
+- 🤖 Multi-agent collaboration with distinct roles
+- 📈 Automated stock data retrieval and analysis
+- 📝 AI-powered blog post generation
+- 🔄 Iterative refinement process
+
 #### Build a group chat
 
 This group chat will include these agents:
@@ -132,3 +142,9 @@ This group chat will include these agents:
 4. **Executor**: to execute the code written by the engineer.
 5. **Writer**: to write the report.
 
+#### Customization Options
+
+- Change target company (update task variable)
+- Modify date range (adjust "past year" in task)
+- Add technical indicators to analysis
+- Customize blog post format/tone
