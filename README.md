@@ -148,3 +148,14 @@ This group chat will include these agents:
 - Modify date range (adjust "past year" in task)
 - Add technical indicators to analysis
 - Customize blog post format/tone
+
+--------------------------------------------------------
+# QA System with Validation Workflow
+
+A question-answering system that routes queries between knowledge bases and web searches, with validation mechanisms.
+
+## Features
+- Dynamic question routing (vectorstore vs web search)
+- Hallucination detection
+- Source credibility validation
+- Ethical safeguard recommendations
