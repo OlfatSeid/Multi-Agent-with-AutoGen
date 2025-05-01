@@ -150,7 +150,7 @@ This group chat will include these agents:
 - Customize blog post format/tone
 
 --------------------------------------------------------
-# QA System with Validation Workflow
+#  Multi-Agent Question Answering with DeepSeek
 
 A question-answering system that routes queries between knowledge bases and web searches, with validation mechanisms.
 
