@@ -2,7 +2,7 @@
 
 This repository demonstrates how to build a simple multi-agent stand-up comedy interaction using Microsoft AutoGen and Groq’s low-latency LLM inference service. Two agents, **Tom** and **Nada**, exchange jokes in a conversational loop, with optional reflection-based summarization and termination logic.
 
----
+-----
 
 ## Features 🚀
 
