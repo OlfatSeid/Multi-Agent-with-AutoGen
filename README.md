@@ -159,3 +159,8 @@ A question-answering system that routes queries between knowledge bases and web 
 - Hallucination detection
 - Source credibility validation
 - Ethical safeguard recommendations
+----------------
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+**License**  
+Distributed under the MIT License. See [LICENSE](LICENSE) for full terms.
